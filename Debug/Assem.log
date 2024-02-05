@@ -1,0 +1,4 @@
+﻿  Assembler.cpp
+C:\Users\Saadat\source\repos\Assem\Assembler.cpp(212,38): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Saadat\source\repos\Assem\Assembler.cpp(212,79): warning C4804: '>': unsafe use of type 'bool' in operation
+  Assem.vcxproj -> C:\Users\Saadat\source\repos\Assem\Debug\Assem.exe
